@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node report.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
